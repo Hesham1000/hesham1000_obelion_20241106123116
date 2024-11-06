@@ -12,15 +12,15 @@
     "license": "ISC",
     "dependencies": {
         "sequelize": "latest",
-        "node.js": "latest",
-        "express": "4.17.1",
         "cors": "latest",
         "mysql": "latest",
-        "mysql2": "latest"
+        "mysql2": "latest",
+        "node.js": "latest",
+        "express": "4.17.1"
     },
     "devDependencies": {
-        "bcrypt": "5.0.0",
         "eslint": "7.32.0",
+        "bcrypt": "5.0.0",
         "sequelize": "6.6.5"
     }
 }
